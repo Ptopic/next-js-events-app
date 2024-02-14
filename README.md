@@ -3,7 +3,6 @@
 <h3>Build with:</h3>
 
 » Frontend -> Next.js
-» Backend -> Strapi
 
 <h2>Screenshot of Project 📸</h2>
 <br>
